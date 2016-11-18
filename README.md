@@ -17,4 +17,4 @@ Setup as cron job to have it run periodically.
 
 ##Cron job setup
 
-Use Windows task Scheduler to run the batch file periodically.
+Use Windows task Scheduler to run the batch file periodically. Refer [this guide](http://www.thewindowsclub.com/how-to-schedule-batch-file-run-automatically-windows-7) in case you need assistance.

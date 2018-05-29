@@ -1,12 +1,10 @@
-#Automated Bookmark Backup
-
-##Description
+# Automated Bookmark Backup
 
 A Python bot to backup your Chrome bookmarks and email them to an email ID of your choice. 
 
 Setup as cron job to have it run periodically.
 
-##Usage
+## Usage
 
 - Download repository
 - Substitute fields such as sender's email ID, receiver's email ID and sender's password with valid details
@@ -15,6 +13,6 @@ Setup as cron job to have it run periodically.
 - Alter `subject` to suit your needs.
 - Run `emailDaemon.bat`
 
-##Cron job setup
+## Cron job setup
 
 Use Windows task Scheduler to run the batch file periodically. Refer to [this guide](http://www.thewindowsclub.com/how-to-schedule-batch-file-run-automatically-windows-7) in case you need assistance.
